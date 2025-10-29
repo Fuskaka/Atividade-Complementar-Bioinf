@@ -3,3 +3,5 @@ Este diretório possui o Jupiter Notebook utilizado para realizar a atividade co
 Caso escolhido: caso 3.
 
 A conclusão da análise se encontra no final do notebook.
+
+Repositório e notebook elaborados por Caio Ricci.
